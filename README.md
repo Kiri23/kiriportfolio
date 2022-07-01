@@ -1,4 +1,7 @@
+
 # Getting Started with Create React App
+
+https://kiri23.github.io/kiriportfolio/
 
 This project was bootstrapped with Chakra UI & [Create React App](https://github.com/facebook/create-react-app).
 
